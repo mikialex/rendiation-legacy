@@ -1,3 +1,3 @@
-# Legacy components of RRF 2020
+# Legacy components of RRF
 
-Large parts of RRF will rewrite in 2021 totally, however some valuable ideas that implemented in 2020 still worth to exist for reference.
+During the evolution of RRF project, many implementation becomes legacy. However, some of them, even unfinished prototype, ideas, still worth to be preserved, but not lost in the git's history. This repo, serves the purpose to keep these code in a reachable but not necessary functional state.
